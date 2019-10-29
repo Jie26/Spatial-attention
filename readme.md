@@ -16,7 +16,9 @@ pynvml 8.0.1
 ## code in Enocder-Decoder Net folder
 
 main.py
+
 after run main.py, you will get a output document like slurm xxxx.out
+
 please put the data in the same fold as main.py
 
 lane attention.py: code for lane-attention 
@@ -29,7 +31,7 @@ baseline.py: code for the base structure without attention
 
 
 -------------------- 
-##datasets
+## datasets
 1. driving sequence data: 4/6track_input_c.npy(the first 3 seconds of all surrounding 9 vehicles), 
                                          4/6position_output.npy(the last 5 seconds of target car position)  
 
@@ -37,6 +39,6 @@ baseline.py: code for the base structure without attention
 
 
 -------------------
-##result show
+## result show
 
 rmse_compare.py
