@@ -1,5 +1,5 @@
 # Spatial attention 
-trajectory prediction
+vehicle trajectory prediction
 
 ## Enviorment requirement
 
