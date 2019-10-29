@@ -1,0 +1,242 @@
+data_split success
+---------------------------------------------------------
+The model has 506,482 trainable parameters
+this is base-line
+
+Epoch: 01 | Time: 65.62261102800005s
+	Train Loss: 11534.481 |  Val. Loss: 19.302
+Epoch: 02 | Time: 65.72588018399995s
+	Train Loss: 17.596 |  Val. Loss: 12.593
+Epoch: 03 | Time: 65.71019160399999s
+	Train Loss: 12.217 |  Val. Loss: 9.201
+Epoch: 04 | Time: 66.53313795499992s
+	Train Loss: 10.588 |  Val. Loss: 9.407
+Epoch: 05 | Time: 64.36547619200007s
+	Train Loss: 10.061 |  Val. Loss: 8.722
+Epoch: 06 | Time: 65.61770973500006s
+	Train Loss: 8.869 |  Val. Loss: 8.780
+Epoch: 07 | Time: 65.978617117s
+	Train Loss: 8.295 |  Val. Loss: 7.577
+Epoch: 08 | Time: 66.31236459299998s
+	Train Loss: 7.609 |  Val. Loss: 7.823
+Epoch: 09 | Time: 64.94150068300007s
+	Train Loss: 7.298 |  Val. Loss: 6.706
+Epoch: 10 | Time: 66.72246659200005s
+	Train Loss: 6.669 |  Val. Loss: 5.400
+Epoch: 11 | Time: 64.966232021s
+	Train Loss: 6.653 |  Val. Loss: 8.102
+Epoch: 12 | Time: 65.5689842060001s
+	Train Loss: 6.479 |  Val. Loss: 6.058
+Epoch: 13 | Time: 66.215927685s
+	Train Loss: 6.332 |  Val. Loss: 6.439
+Epoch: 14 | Time: 64.66664505800009s
+	Train Loss: 6.263 |  Val. Loss: 5.805
+Epoch: 15 | Time: 65.004610663s
+	Train Loss: 6.237 |  Val. Loss: 5.666
+Epoch: 16 | Time: 64.95097518400007s
+	Train Loss: 6.233 |  Val. Loss: 6.043
+Epoch: 17 | Time: 64.74773807700012s
+	Train Loss: 5.923 |  Val. Loss: 5.570
+Epoch: 18 | Time: 67.2900977270001s
+	Train Loss: 5.895 |  Val. Loss: 6.218
+Epoch: 19 | Time: 66.8378993780002s
+	Train Loss: 5.954 |  Val. Loss: 4.908
+Epoch: 20 | Time: 67.79716551799993s
+	Train Loss: 5.766 |  Val. Loss: 6.224
+Epoch: 21 | Time: 67.62060956599998s
+	Train Loss: 5.526 |  Val. Loss: 6.068
+Epoch: 22 | Time: 65.7694202969999s
+	Train Loss: 5.370 |  Val. Loss: 5.495
+Epoch: 23 | Time: 66.19570963499996s
+	Train Loss: 5.394 |  Val. Loss: 4.548
+Epoch: 24 | Time: 65.54599621199986s
+	Train Loss: 5.441 |  Val. Loss: 5.634
+Epoch: 25 | Time: 65.89248210100004s
+	Train Loss: 5.212 |  Val. Loss: 6.123
+Epoch: 26 | Time: 66.06388573799995s
+	Train Loss: 5.379 |  Val. Loss: 5.290
+Epoch: 27 | Time: 65.3554416449997s
+	Train Loss: 5.355 |  Val. Loss: 5.982
+Epoch: 28 | Time: 65.8804642s
+	Train Loss: 5.239 |  Val. Loss: 5.002
+Epoch: 29 | Time: 66.01240458899974s
+	Train Loss: 5.062 |  Val. Loss: 5.119
+Epoch: 30 | Time: 65.46993368299991s
+	Train Loss: 5.030 |  Val. Loss: 4.397
+Epoch: 31 | Time: 64.9045425610002s
+	Train Loss: 4.940 |  Val. Loss: 5.945
+Epoch: 32 | Time: 66.76011816099981s
+	Train Loss: 5.006 |  Val. Loss: 5.694
+Epoch: 33 | Time: 65.93394225300017s
+	Train Loss: 4.841 |  Val. Loss: 5.291
+Epoch: 34 | Time: 67.35556211499988s
+	Train Loss: 4.859 |  Val. Loss: 5.045
+Epoch: 35 | Time: 66.85802039000009s
+	Train Loss: 4.881 |  Val. Loss: 4.236
+Epoch: 36 | Time: 65.86709071899986s
+	Train Loss: 4.777 |  Val. Loss: 4.767
+Epoch: 37 | Time: 66.22164449899992s
+	Train Loss: 4.980 |  Val. Loss: 5.803
+Epoch: 38 | Time: 65.62486463999994s
+	Train Loss: 4.888 |  Val. Loss: 4.735
+Epoch: 39 | Time: 65.44379444100014s
+	Train Loss: 4.763 |  Val. Loss: 6.212
+Epoch: 40 | Time: 65.33424174799984s
+	Train Loss: 4.689 |  Val. Loss: 4.709
+testloss: 3.412088230252266
+meminfo.used: 589.0
+meminfo.total: 12196.0625
+---------------------------------------------------------
+The model has 508,657 trainable parameters
+this is soft-attention
+
+Epoch: 01 | Time: 79.75997034500006s
+	Train Loss: 10912.326 |  Val. Loss: 14.922
+Epoch: 02 | Time: 81.06201157299984s
+	Train Loss: 11.638 |  Val. Loss: 11.449
+Epoch: 03 | Time: 82.67518834400016s
+	Train Loss: 8.883 |  Val. Loss: 9.822
+Epoch: 04 | Time: 81.80485762399985s
+	Train Loss: 7.970 |  Val. Loss: 8.656
+Epoch: 05 | Time: 81.81643023400011s
+	Train Loss: 7.423 |  Val. Loss: 7.744
+Epoch: 06 | Time: 82.42488033900008s
+	Train Loss: 7.063 |  Val. Loss: 7.463
+Epoch: 07 | Time: 80.83554793299982s
+	Train Loss: 6.470 |  Val. Loss: 8.316
+Epoch: 08 | Time: 77.93794713699981s
+	Train Loss: 6.322 |  Val. Loss: 6.362
+Epoch: 09 | Time: 79.51268813100023s
+	Train Loss: 6.114 |  Val. Loss: 6.316
+Epoch: 10 | Time: 81.68003406300022s
+	Train Loss: 5.977 |  Val. Loss: 8.572
+Epoch: 11 | Time: 81.21620388800011s
+	Train Loss: 6.280 |  Val. Loss: 6.296
+Epoch: 12 | Time: 81.28413465600033s
+	Train Loss: 5.849 |  Val. Loss: 6.163
+Epoch: 13 | Time: 81.11568628500027s
+	Train Loss: 5.447 |  Val. Loss: 5.711
+Epoch: 14 | Time: 81.667806939s
+	Train Loss: 5.194 |  Val. Loss: 5.833
+Epoch: 15 | Time: 81.6893673630002s
+	Train Loss: 5.053 |  Val. Loss: 4.764
+testloss: 3.8780935278960635
+meminfo.used: 769.0
+meminfo.total: 12196.0625
+---------------------------------------------------------
+The model has 525,042 trainable parameters
+this is context-attention
+
+Epoch: 01 | Time: 79.90079700699971s
+	Train Loss: 11249.559 |  Val. Loss: 14.039
+Epoch: 02 | Time: 79.74039858200013s
+	Train Loss: 9.641 |  Val. Loss: 7.848
+Epoch: 03 | Time: 80.19411540500005s
+	Train Loss: 6.855 |  Val. Loss: 6.441
+Epoch: 04 | Time: 77.68078768400028s
+	Train Loss: 5.767 |  Val. Loss: 4.421
+Epoch: 05 | Time: 80.04757113800042s
+	Train Loss: 5.608 |  Val. Loss: 5.171
+Epoch: 06 | Time: 79.99562821299969s
+	Train Loss: 5.654 |  Val. Loss: 4.446
+Epoch: 07 | Time: 77.48688857099933s
+	Train Loss: 4.401 |  Val. Loss: 4.057
+Epoch: 08 | Time: 77.4752570720002s
+	Train Loss: 4.308 |  Val. Loss: 3.496
+Epoch: 09 | Time: 76.55757291099962s
+	Train Loss: 4.263 |  Val. Loss: 3.520
+Epoch: 10 | Time: 77.06605275600032s
+	Train Loss: 3.680 |  Val. Loss: 3.227
+Epoch: 11 | Time: 76.99540385199998s
+	Train Loss: 3.636 |  Val. Loss: 3.739
+Epoch: 12 | Time: 77.52511598000001s
+	Train Loss: 3.354 |  Val. Loss: 3.484
+Epoch: 13 | Time: 76.45472563200019s
+	Train Loss: 3.312 |  Val. Loss: 3.531
+Epoch: 14 | Time: 79.59734619499977s
+	Train Loss: 3.041 |  Val. Loss: 3.614
+Epoch: 15 | Time: 82.396979526s
+	Train Loss: 3.019 |  Val. Loss: 3.784
+Epoch: 16 | Time: 82.32431677299974s
+	Train Loss: 2.824 |  Val. Loss: 2.594
+Epoch: 17 | Time: 80.74776970999937s
+	Train Loss: 2.733 |  Val. Loss: 2.999
+Epoch: 18 | Time: 80.73295134499949s
+	Train Loss: 2.837 |  Val. Loss: 2.300
+testloss: 1.9975522245679582
+meminfo.used: 777.0
+meminfo.total: 12196.0625
+---------------------------------------------------------
+The model has 265,723 trainable parameters
+this is lane-attention
+
+Epoch: 01 | Time: 119.72260453500076s
+	Train Loss: 11671.621 |  Val. Loss: 13.664
+Epoch: 02 | Time: 120.07163987200056s
+	Train Loss: 9.031 |  Val. Loss: 6.134
+Epoch: 03 | Time: 121.67874730200037s
+	Train Loss: 5.713 |  Val. Loss: 5.047
+Epoch: 04 | Time: 121.08779247800067s
+	Train Loss: 4.951 |  Val. Loss: 5.314
+Epoch: 05 | Time: 123.20634150000024s
+	Train Loss: 4.342 |  Val. Loss: 3.545
+Epoch: 06 | Time: 126.76146005200007s
+	Train Loss: 3.686 |  Val. Loss: 4.651
+Epoch: 07 | Time: 127.23102601400024s
+	Train Loss: 3.478 |  Val. Loss: 2.551
+Epoch: 08 | Time: 126.73849592400074s
+	Train Loss: 3.045 |  Val. Loss: 3.698
+Epoch: 09 | Time: 126.4075695090005s
+	Train Loss: 2.954 |  Val. Loss: 2.392
+Epoch: 10 | Time: 125.9046490820001s
+	Train Loss: 2.800 |  Val. Loss: 2.433
+Epoch: 11 | Time: 126.48720379899987s
+	Train Loss: 2.546 |  Val. Loss: 2.595
+Epoch: 12 | Time: 126.86528782000005s
+	Train Loss: 2.415 |  Val. Loss: 2.493
+Epoch: 13 | Time: 125.71207349900033s
+	Train Loss: 2.332 |  Val. Loss: 2.156
+Epoch: 14 | Time: 123.4608681210002s
+	Train Loss: 2.433 |  Val. Loss: 2.564
+Epoch: 15 | Time: 125.39091809799993s
+	Train Loss: 2.187 |  Val. Loss: 2.591
+Epoch: 16 | Time: 125.16347043000042s
+	Train Loss: 2.145 |  Val. Loss: 2.004
+Epoch: 17 | Time: 123.62628485700043s
+	Train Loss: 2.268 |  Val. Loss: 1.996
+Epoch: 18 | Time: 129.62968903s
+	Train Loss: 2.161 |  Val. Loss: 1.873
+Epoch: 19 | Time: 127.34359406300064s
+	Train Loss: 2.039 |  Val. Loss: 1.508
+testloss: 1.4749038687774114
+meminfo.used: 793.0
+meminfo.total: 12196.0625
+---------------------------------------------------------
+lane attention
+position loss as 1 seconds increment
+[0.80212468 0.77713214 0.78668121 0.87321769 1.10592457]
+longitudinal position loss as 1 seconds increment
+[0.77365579 0.75296503 0.75753059 0.82987532 1.04745012]
+lateral position loss as 1 seconds increment
+[0.21180347 0.19229669 0.21216673 0.27169115 0.3548484 ]
+context attention
+position loss as 1 seconds increment
+[0.83360775 0.81008918 0.86863864 1.02750786 1.31097564]
+longitudinal position loss as 1 seconds increment
+[0.81287672 0.78812927 0.83930618 0.9857967  1.25666605]
+lateral position loss as 1 seconds increment
+[0.18475203 0.1873412  0.22382632 0.28978831 0.37342677]
+soft attention
+position loss as 1 seconds increment
+[1.22560131 1.19959836 1.27781775 1.48421294 1.83970925]
+longitudinal position loss as 1 seconds increment
+[1.18045595 1.14827172 1.21996022 1.42063942 1.7713691 ]
+lateral position loss as 1 seconds increment
+[0.32957899 0.34714304 0.38015163 0.42973444 0.49677122]
+base line
+position loss as 1 seconds increment
+[0.97959083 1.02250732 1.1329126  1.35426675 1.70970139]
+longitudinal position loss as 1 seconds increment
+[0.91066557 0.95329871 1.06284669 1.28302711 1.63663499]
+lateral position loss as 1 seconds increment
+[0.36095209 0.36978751 0.39223446 0.43345109 0.49447422]
