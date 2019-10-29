@@ -1,4 +1,4 @@
-# master thesis 
+# Spatial attention 
 trajectory prediction
 
 ## Enviorment requirement
